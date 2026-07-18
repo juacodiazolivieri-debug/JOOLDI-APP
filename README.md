@@ -17,21 +17,16 @@ The JOOLDI App serves as the digital companion to our physical infrastructure, p
 ### 📱 Interface Preview
 To ensure a seamless user experience, the application operates through a streamlined, high-accessibility UI flow:
 
-1. **Welcome & Core AI Gateway**
-   ![Welcome Screen](1783803169222.png)
-   *The initial splash interface powered by AI, setting up the context for active routing and immediate hardware assistance.*
+1. **Granular Citizen Inclusion Report**
+   ![Inclusion Analytics](1000033651.jpg)
+   *Comprehensive urban analytics evaluating infrastructure health across sidewalks, public transit networks, commercial zones, and hospitality accessibility.*
 
 2. **Adaptive Mobility Profile**
-   ![Mobility Selection](1783804099925.png)
+   ![Mobility Selection](1000033653.jpg)
    *User profile customization screen allowing individuals to define their specific mobility type (Manual vs. Electric) to calibrate navigation parameters.*
 
 3. **Live Accessibility Map & Inclusion Index**
-   ![Active Navigation Map](1783804291337.png)
+   ![Active Navigation Map](1000033649.jpg) 
    *The primary active routing dashboard displaying real-time safety tracking, infrastructure status, and the local neighborhood Inclusion Index (e.g., Ciudad Vieja).*
-
-4. **Granular Citizen Inclusion Report**
-   ![Inclusion Analytics](1783804519561.png)
-   *Comprehensive urban analytics evaluating infrastructure health across sidewalks, public transit networks, commercial zones, and hospitality accessibility.*
-
 ---
 > **JOOLDI Innovation Ecosystem** - *Building the future of smart urban infrastructure.*
