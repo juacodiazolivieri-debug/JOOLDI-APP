@@ -14,5 +14,28 @@ The JOOLDI App serves as the digital companion to our physical infrastructure, p
 - **Community-Driven Mapping:** A collaborative system where users report infrastructure issues (e.g., broken sidewalks). The AI dynamically updates the map to optimize routing for all community members.
 - **Ecosystem Integration:** The app synchronizes directly with the JOOLDI physical charging network, bridging the gap between hardware status, human assistance, and safe urban mobility.
 
+### 📱 Interface Preview
+To ensure a seamless user experience, the application operates through a streamlined, high-accessibility UI flow:
+
+1. **Welcome & Core AI Gateway**
+   ![Welcome Screen](1000032655_2.png)
+   *The initial splash interface powered by AI, setting up the context for active routing and immediate hardware assistance.*
+
+2. **Adaptive Mobility Profile**
+   ![Mobility Selection](1000032653_2.png)
+   *User profile customization screen allowing individuals to define their specific mobility type (Manual vs. Electric) to calibrate navigation parameters.*
+
+3. **Live Accessibility Map & Inclusion Index**
+   ![Active Navigation Map](1000032654_2.png)
+   *The primary active routing dashboard displaying real-time safety tracking, infrastructure status, and the local neighborhood Inclusion Index (e.g., Ciudad Vieja).*
+
+4. **Granular Citizen Inclusion Report**
+   ![Inclusion Analytics](1000032651_2.png)
+   *Comprehensive urban analytics evaluating infrastructure health across sidewalks, public transit networks, commercial zones, and hospitality accessibility.*
+---
+> **JOOLDI Innovation Ecosystem** - *Building the future of smart urban infrastructure.*
+- **Community-Driven Mapping:** A collaborative system where users report infrastructure issues (e.g., broken sidewalks). The AI dynamically updates the map to optimize routing for all community members.
+- **Ecosystem Integration:** The app synchronizes directly with the JOOLDI physical charging network, bridging the gap between hardware status, human assistance, and safe urban mobility.
+
 ---
 > **JOOLDI Innovation Ecosystem** - *Building the future of smart urban infrastructure.*
