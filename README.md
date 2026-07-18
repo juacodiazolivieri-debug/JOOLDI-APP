@@ -14,10 +14,10 @@ The JOOLDI App serves as the digital companion to our physical infrastructure, p
 - **Community-Driven Mapping:** A collaborative system where users report infrastructure issues (e.g., broken sidewalks). The AI dynamically updates the map to optimize routing for all community members.
 - **Ecosystem Integration:** The app synchronizes directly with the JOOLDI physical charging network, bridging the gap between hardware status, human assistance, and safe urban mobility.
 
-###### 📱 System Interface Overview
+### 📱 System Interface Overview
 To ensure an intuitive user experience, the JOOLDI App operates through a streamlined, high-accessibility flow. The complete user journey—from AI activation and profile selection to live, secure navigation and granular inclusion reporting—is unified within a single application ecosystem.
 
-### [JOOLDI App Interface Flow Summary](1784402792399.png)
-*The JOOLDI App unified interface flow, demonstrating the progression from personalized mobility setup to real-time urban inclusion analytics and secure, accessible routing
+![JOOLDI App Interface Flow Summary](1784402792399.png)
+*The JOOLDI App unified interface flow, demonstrating the progression from personalized mobility setup to real-time urban inclusion analytics and secure, accessible routing.*
 ---
 > **JOOLDI Innovation Ecosystem** - *Building the future of smart urban infrastructure.*
