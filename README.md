@@ -14,8 +14,5 @@ The JOOLDI App serves as the digital companion to our physical infrastructure, p
 - **Community-Driven Mapping:** A collaborative system where users report infrastructure issues (e.g., broken sidewalks). The AI dynamically updates the map to optimize routing for all community members.
 - **Ecosystem Integration:** The app synchronizes directly with the JOOLDI physical charging network, bridging the gap between hardware status, human assistance, and safe urban mobility.
 
-### 🔗 Documentation & Resources
-* [Link to Main JOOLDI Repository: https://github.com/juacodia/centro-de-recarga-urbana]
-
 ---
 > **JOOLDI Innovation Ecosystem** - *Building the future of smart urban infrastructure.*
