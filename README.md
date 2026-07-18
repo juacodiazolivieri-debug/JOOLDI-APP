@@ -34,8 +34,3 @@ To ensure a seamless user experience, the application operates through a streaml
    *Comprehensive urban analytics evaluating infrastructure health across sidewalks, public transit networks, commercial zones, and hospitality accessibility.*
 ---
 > **JOOLDI Innovation Ecosystem** - *Building the future of smart urban infrastructure.*
-- **Community-Driven Mapping:** A collaborative system where users report infrastructure issues (e.g., broken sidewalks). The AI dynamically updates the map to optimize routing for all community members.
-- **Ecosystem Integration:** The app synchronizes directly with the JOOLDI physical charging network, bridging the gap between hardware status, human assistance, and safe urban mobility.
-
----
-> **JOOLDI Innovation Ecosystem** - *Building the future of smart urban infrastructure.*
