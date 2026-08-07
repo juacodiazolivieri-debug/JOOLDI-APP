@@ -30,7 +30,15 @@ The platform's operational core implements direct calls to advanced models via t
 * **Synchronized Transactional Infrastructure:** The artificial intelligence not only analyzes the environment through the **Gemini API** but also securely communicates with production payment gateways to validate payment preferences and confirmation webhooks without human intervention.
 
 
-### 📱 System Interface Overview
+## ☁️ Google Cloud & AI Infrastructure
+
+The JOOLDI ecosystem leverages advanced Google Cloud services and the **Gemini API** to drive end-to-end automation, predictive energy management, and real-time urban mobility decisions:
+
+* **Gemini API & Agentic AI Core:** Powers the `/app-api/charging/interpret` endpoint, processing real-time traffic flows, urban availability, and micromobility patterns to make automated deployment decisions without human intervention.
+* **Real-Time Data Interpretation:** Handles dynamic urban mapping, user accessibility needs, and sidewalk conditions securely and at scale.
+* **Synchronized Transactional Infrastructure:** Integrates AI insights with production payment gateways, validating user preferences and handling confirmation webhooks securely.
+* **Vertex AI & BigQuery Integration:** Employs advanced data pipelines and predictive analytics to manage grid telematics, structural telemetry, and high-load traffic scalability.
+* **Cloud-Native Microservices (Cloud Run & GKE):** Built on robust, containerized architectures to ensure high availability, low-latency routing, and seamless communication between the physical JOOLDI charging nodes and the mobile app ecosystem.
 
 ---
 > **JOOLDI Innovation Ecosystem** - *Building the future of smart urban infrastructure.*
