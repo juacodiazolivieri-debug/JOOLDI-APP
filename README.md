@@ -4,9 +4,10 @@
 ### 🎯 Vision
 The JOOLDI App serves as the digital companion to our physical infrastructure, providing real-time, AI-powered navigation for users with diverse mobility needs. It transforms urban accessibility by mapping infrastructure and social inclusion metrics.
 
-### 🛠 Status & Role
+## 🛠️ Status & Role
+
 * **Role in the Ecosystem:** Mapping, AI Integration, and User Profile management.
-* **Status:** 🔵 In Integration.
+* **Status:** 🟢 Operational.
 
 ### 🚀 Key Features
 - **AI-Powered Human Interface:** The App acts as the first non-human point of contact. Upon arrival at a JOOLDI station, the AI offers real-time assistance: "Do you need human help for charging?". If confirmed, the system coordinates immediate human support.
