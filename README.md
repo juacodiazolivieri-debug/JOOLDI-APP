@@ -31,9 +31,6 @@ The platform's operational core implements direct calls to advanced models via t
 
 
 ### 📱 System Interface Overview
-To ensure an intuitive user experience, the JOOLDI App operates through a streamlined, high-accessibility flow. The complete user journey—from AI activation and profile selection to live, secure navigation and granular inclusion reporting—is unified within a single application ecosystem.
 
-![JOOLDI App Interface Flow Summary](1784402792399.png)
-*The JOOLDI App unified interface flow, demonstrating the progression from personalized mobility setup to real-time urban inclusion analytics and secure, accessible routing.*
 ---
 > **JOOLDI Innovation Ecosystem** - *Building the future of smart urban infrastructure.*
