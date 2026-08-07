@@ -2,7 +2,7 @@
 *Part of the JOOLDI Innovation Ecosystem*
 
 ### 🎯 Vision
-The JOOLDI App serves as the digital companion to our physical infrastructure, providing real-time, AI-powered navigation for users with diverse mobility needs. It transforms urban accessibility by mapping infrastructure and social inclusion metrics.
+The JOOLDI App serves as the digital companion to our physical infrastructure, providing real-time, AI-powered navigation for users with diverse mobility needs. It transforms urban accessibility by mapping infrastructure and social inclusion metrics. The JOOLDI App ecosystem leverages advanced Google Cloud services and the Gemini API to drive end-to-end automation, predictive energy management, and real-time urban mobility decisions.
 
 ## 🛠️ Status & Role
 
@@ -32,7 +32,6 @@ The platform's operational core implements direct calls to advanced models via t
 
 ## ☁️ Google Cloud & AI Infrastructure
 
-The JOOLDI ecosystem leverages advanced Google Cloud services and the **Gemini API** to drive end-to-end automation, predictive energy management, and real-time urban mobility decisions:
 
 * **Gemini API & Agentic AI Core:** Powers the `/app-api/charging/interpret` endpoint, processing real-time traffic flows, urban availability, and micromobility patterns to make automated deployment decisions without human intervention.
 * **Real-Time Data Interpretation:** Handles dynamic urban mapping, user accessibility needs, and sidewalk conditions securely and at scale.
